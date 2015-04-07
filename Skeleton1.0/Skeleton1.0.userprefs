@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MouseRubberBand.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CreateGameobject.cs" Line="19" Column="2" />
+      <File FileName="Assets\Scripts\MouseRubberBand.cs" Line="39" Column="1" />
+      <File FileName="Assets\Scripts\BuildingBlockSnapping.cs" Line="32" Column="79" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
